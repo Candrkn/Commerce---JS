@@ -1,0 +1,28 @@
+.resim{
+    width: 70%;
+    height: 300px;
+    margin: auto;
+}
+
+.boyut{
+    height: 500px;
+}
+
+.pozisyon{
+    position: absolute;
+    bottom: 10px;
+    transform: translate(-50%);
+}
+
+.pozisyon2{
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    transform: translate(-50%);
+    
+}
+
+.stil{
+    border-top: 2px solid black;
+    padding-top: 5px;
+}
